@@ -1,0 +1,14 @@
+﻿  game.c
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(250,120): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(250,116): warning C4024: 'al_draw_bitmap_region': different types for formal and actual parameter 8
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(256,28): warning C4047: 'function': 'int (*)[15]' differs in levels of indirection from 'int'
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(256,24): warning C4024: 'collision': different types for formal and actual parameter 1
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(43,42): warning C4101: 'mapSizeX': unreferenced local variable
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(43,52): warning C4101: 'mapSizeY': unreferenced local variable
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(335,164): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(335,160): warning C4024: 'al_draw_bitmap_region': different types for formal and actual parameter 8
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(414,84): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(414,80): warning C4024: 'al_draw_bitmap_region': different types for formal and actual parameter 8
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(418,83): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\wojno\Desktop\game\ProjectBomberman\ProjectBomberman\game.c(418,79): warning C4024: 'al_draw_bitmap_region': different types for formal and actual parameter 8
+  ProjectBomberman.vcxproj -> C:\Users\wojno\Desktop\game\ProjectBomberman\x64\Debug\ProjectBomberman.exe
