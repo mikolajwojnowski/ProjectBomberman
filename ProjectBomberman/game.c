@@ -397,7 +397,7 @@ void collision()
 }
 
 
-void drawMap(int map_arr[15][15], ALLEGRO_BITMAP* map)
+void drawMap(int map_arr[15][15], ALLEGRO_BITMAP* map)   
 {
 	for (int i = 0; i < 15; i++)
 	{
